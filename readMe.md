@@ -1,4 +1,4 @@
-# Hello there, I'm Artyom Velichko!
+# Hello there, I'm Artyom Velichko
 ### Computer science student, group IT2001
 ___
 <div id="header" align="center">
